@@ -11,6 +11,7 @@
 		46450DF2251B381900597D09 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46450DF1251B381900597D09 /* ContentView.swift */; };
 		46450DF4251B381E00597D09 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46450DF3251B381E00597D09 /* Assets.xcassets */; };
 		46450DF7251B381E00597D09 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46450DF6251B381E00597D09 /* Preview Assets.xcassets */; };
+		46450E00251BD21500597D09 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46450DFF251BD21500597D09 /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		46450DF3251B381E00597D09 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		46450DF6251B381E00597D09 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		46450DF8251B381E00597D09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		46450DFF251BD21500597D09 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				46450DEF251B381900597D09 /* InstafilterApp.swift */,
 				46450DF1251B381900597D09 /* ContentView.swift */,
+				46450DFF251BD21500597D09 /* ImagePicker.swift */,
 				46450DF3251B381E00597D09 /* Assets.xcassets */,
 				46450DF8251B381E00597D09 /* Info.plist */,
 				46450DF5251B381E00597D09 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46450E00251BD21500597D09 /* ImagePicker.swift in Sources */,
 				46450DF2251B381900597D09 /* ContentView.swift in Sources */,
 				46450DF0251B381900597D09 /* InstafilterApp.swift in Sources */,
 			);
