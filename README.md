@@ -4,5 +4,6 @@ App that allows the user to import photos from their library and add filters to 
 
 Topics covered:
 - How property wrappers become structs
+- Integrating with UIKit
 - Creating custom bindings in SwiftUI
 - Showing multiple options with ActionSheet
